@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་དངོས་གཞིའི་ཁྲིད་ཡིག་འོག་མིན་ཆེན་པོར་བགྲོད་པའི་ལམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཡོན་ཏན་འོད།
+  sku: LEK-MA-DK-16
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Fine Path toward the Great Akanishta:An Explanation of the Actual Practice
+      Section of Coemergent Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་དངོས་གཞིའི་ཁྲིད་ཡིག་འོག་མིན་ཆེན་པོར་བགྲོད་པའི་ལམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Mahamudra Series–  Book 16
+    bo: ལེགས་བཤད་གླིང་ཕྱག་རྒྱ་ཆེན་པོ།–  དེབ། ༡༦
+  author:
+    en: Yonten Od
+    bo: ཡོན་ཏན་འོད།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-MA-DK-16
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-MA-DK-16.epub
+  description:
+    en: ''
+    bo: ''
