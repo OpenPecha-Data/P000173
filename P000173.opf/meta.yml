@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000173
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་དངོས་གཞིའི་ཁྲིད་ཡིག་འོག་མིན་ཆེན་པོར་བགྲོད་པའི་ལམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཡོན་ཏན་འོད།
-  sku: LEK-MA-DK-16
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: LEK-MA-DK-16
 web_metadata:
   title:
     en: A Fine Path toward the Great Akanishta:An Explanation of the Actual Practice
